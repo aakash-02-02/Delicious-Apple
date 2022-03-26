@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(64, 202, 64);
+}
+.container{
+    background-color: white;
+    height: 75vh;
+    width: 40vw;
+    position: absolute;
+    top: 5rem;
+    left: 30rem;
+    border-radius: 15px;
+} 
+.container2{
+    background-color: white;
+    height: 60vh;
+    width: 18vw;
+    position: absolute;
+    top: 8rem;
+    left: 28rem;
+    border-radius: 15px;
+}
+.container3{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: rgb(154, 223, 25);
+    height: 48vh;
+    width: 18vw;
+}
+.imgcolor{
+    padding-left: 250px;
+}
+.parentbod{
+    padding-left: 260px;
+}
+.bod{
+    border: 1px solid black;
+    width: 40px;
+}
+#bigapple{
+    width: 270px;
+    position: absolute;
+    top: 10rem;
+    left: 25rem;
+}
+.h1{
+    padding-left: 240px;
+    padding-top: 30px;
+    margin-bottom: 0px;
+}
+.code{
+    padding-left: 250px;
+    font-size: small;
+    color: gray;
+}
+h2{
+    color: gray;
+    font-size:90%;
+}
+.amt{
+    padding-top: 10px;
+    padding-left: 250px;
+    color: red;
+}
+.amount{
+    font-size:xx-large;
+}
+.benifits{
+    padding-left: 250px;
+    margin-bottom: 0px;
+}
+ul{
+    padding-left: 250px;
+}
+li{
+    padding-bottom: 5px;
+}
+.subapple{
+    padding: 10px 22px;
+}
+#secondsubapple{
+    border: 1px solid rgb(201, 194, 194);
+    width: 45px;
+}
+.button1{
+    margin-top: 0px;
+    margin-left: 260px;
+    background-color: red;
+    border-radius: 10px;
+    padding: 15px;
+}
